@@ -1,7 +1,7 @@
 # Sipho Zuma | Software Engineer & AI Enthusiast
 
 ## 👋 About Me
-I'm a passionate software engineer focused on high-performance computing, algorithm design, and artificial intelligence. Based in Johannesburg, South Africa, I combine technical expertise with creative problem-solving to build innovative solutions.
+I'm a passionate programmer focused on high-performance computing, algorithm design, and artificial intelligence. Based in Johannesburg, South Africa, I combine technical expertise with creative problem-solving to build innovative solutions.
 
 ## 🔭 Expertise & Interests
 - **Algorithm Design & Data Structures**: Implementing efficient solutions to complex computational problems
