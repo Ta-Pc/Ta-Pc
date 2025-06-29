@@ -18,8 +18,6 @@ I'm a passionate programmer focused on high-performance computing, algorithm des
 ## 🎓 Education
 - **University of Pretoria**
   - Currently pursuing Bachelor of Information Technology (BIT) in Information Systems (2025, 1st year)
-  - Bachelor's degree in Computer Science (2023)
-  - Bachelor's degree in Computer Engineering (2024)
 
 ## 🌱 Current Learning Journey
 - Studying Systems Thinking, C# Programming, Business Studies, Economics, and Statistics as part of my BIT program
