@@ -33,7 +33,7 @@ I'm interested in collaborating on:
 - High-performance C++ projects
 
 ## 📫 Let's Connect
-- **Email**: makhosazanaprity33@gmail.com
+- **Email**: sip.zuma@gmail.com
 - **LinkedIn**: [linkedin.com/in/siphozuma-1890aa264](https://www.linkedin.com/in/siphozuma-1890aa264)
 - **Location**: Johannesburg, Gauteng, South Africa
 
