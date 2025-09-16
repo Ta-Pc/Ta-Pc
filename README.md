@@ -12,29 +12,34 @@ Here are a couple of projects I'm proud of. They showcase my dedication to build
 | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | 🐍 **[AI-Snake-Game](https://github.com/Ta-Pc/AI-Snake-Game)**         | A comprehensive AI framework in Python to implement, test, and visualize a variety of pathfinding algorithms in a classic game environment.     | `Python`, `Pygame`, `AI Algorithms (A*, BFS, DFS)`, `OOP`         |
 | ⚛️ **[Physics-Simulation](https://github.com/Ta-Pc/Physics-Simulation)** | A 2D physics engine built from scratch in C++ to model real-world physical forces like gravity, collisions, and spring mechanics. | `C++`, `SFML`, `CMake`, `Physics Engine Design`, `OOP`            |
-| 📅 **[Event-Countdown-Widget](https://github.com/Ta-Pc/Ta-Pc-EventCountdownWidget)** | A modern, customizable Android home screen widget that provides at-a-glance countdowns to your important calendar events, with Material You theming. | `Kotlin`, `Android SDK`, `AppWidgets`, `Material Components` |
+| 📅 **[Event-Countdown-Widget](https://github.com/Ta-Pc/Ta-Pc-EventCountdownWidget)** | A modern, customizable Android home screen widget that provides at-a-glance countdowns to your important calendar events, with Material You theming. | `Java`, `Android SDK`, `AppWidgets`, `Material Components` |
 
 ---
 
 ### 💻 My Tech Toolbox
 
-These are the primary languages, platforms, and tools I enjoy working with:
+A curated list of my favorite languages, platforms, and tools.
 
+#### Languages
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+#### Tools & Platforms
+<p align="left">
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   </a>
   <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SFML-8CC44F?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML"/>
