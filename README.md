@@ -57,8 +57,8 @@ A curated list of my favorite languages, platforms, and tools.
 ### 🌱 What I'm Focused On
 
 *   **Academics:** Excelling in my **BIT: Information Systems** degree at UP, focusing on Systems Analysis, C# Programming, and Business Studies.
-*   **Deeper Learning:** Mastering advanced AI concepts from *"Artificial Intelligence: A Modern Approach"* and exploring heterogeneous computing with SYCL.
-*   **Project Development:** Continuously improving my C++ skills by enhancing my physics engine and other high-performance applications.
+*   **Deeper Learning:** Mastering advanced Information Systems Analyst Tools and techniques to model and develop information systems.
+*   **Project Development:** Currently working on Academic-OS an advanced academic system responsible for tracking assignments and academic performence.
 
 ---
 
