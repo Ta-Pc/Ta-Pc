@@ -1,7 +1,3 @@
-Of course! Here is your updated GitHub profile README with the **Academic-OS** project prominently featured in your pinned projects and linked in your focus section.
-
----
-
 ### Hi there, I'm Sipho 👋
 
 I'm a first-year **Information Systems student at the University of Pretoria** with a deep passion for C++, AI, and high-performance computing that extends far beyond the classroom. I love tackling complex problems, from building neural networks from scratch in C++ to designing self-learning game agents.
