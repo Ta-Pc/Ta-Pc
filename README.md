@@ -1,3 +1,7 @@
+Of course! Here is your updated GitHub profile README with the **Academic-OS** project prominently featured in your pinned projects and linked in your focus section.
+
+---
+
 ### Hi there, I'm Sipho 👋
 
 I'm a first-year **Information Systems student at the University of Pretoria** with a deep passion for C++, AI, and high-performance computing that extends far beyond the classroom. I love tackling complex problems, from building neural networks from scratch in C++ to designing self-learning game agents.
@@ -10,6 +14,7 @@ Here are a couple of projects I'm proud of. They showcase my dedication to build
 
 | Project                                                 | Description                                                                                                                              | Technologies Used                                               |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 🎓 **[Academic-OS](https://github.com/Ta-Pc/Academic-OS)**         | An offline-first personal academic analytical engine to be the single source of truth for a student's performance. Replaces spreadsheets with powerful goal tracking and real-time analytics. | `React`, `TypeScript`, `Zustand`, `SQLite (sql.js)`, `PWA`          |
 | 🐍 **[AI-Snake-Game](https://github.com/Ta-Pc/AI-Snake-Game)**         | A comprehensive AI framework in Python to implement, test, and visualize a variety of pathfinding algorithms in a classic game environment.     | `Python`, `Pygame`, `AI Algorithms (A*, BFS, DFS)`, `OOP`         |
 | ⚛️ **[Physics-Simulation](https://github.com/Ta-Pc/Physics-Simulation)** | A 2D physics engine built from scratch in C++ to model real-world physical forces like gravity, collisions, and spring mechanics. | `C++`, `SFML`, `CMake`, `Physics Engine Design`, `OOP`            |
 | 📅 **[Event-Countdown-Widget](https://github.com/Ta-Pc/Ta-Pc-EventCountdownWidget)** | A modern, customizable Android home screen widget that provides at-a-glance countdowns to your important calendar events, with Material You theming. | `Java`, `Android SDK`, `AppWidgets`, `Material Components` |
@@ -58,7 +63,7 @@ A curated list of my favorite languages, platforms, and tools.
 
 *   **Academics:** Excelling in my **BIT: Information Systems** degree at UP, focusing on Systems Analysis, C# Programming, and Business Studies.
 *   **Deeper Learning:** Mastering advanced Information Systems Analyst Tools and techniques to model and develop information systems.
-*   **Project Development:** Currently working on Academic-OS an advanced academic system responsible for tracking assignments and academic performence.
+*   **Project Development:** Currently working on [Academic-OS](https://github.com/Ta-Pc/Academic-OS), an advanced academic system responsible for tracking assignments and academic performance.
 
 ---
 
