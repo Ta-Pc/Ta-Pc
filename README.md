@@ -1,6 +1,6 @@
 ### Hi there, I'm Sipho 👋
 
-I'm a first-year **Information Systems student at the University of Pretoria** with a deep passion for C++, AI, and high-performance computing that extends far beyond the classroom. I love tackling complex problems, from building neural networks from scratch in C++ to designing self-learning game agents.
+I'm a second-year **Information Systems student at the University of Pretoria** with a deep passion for C++, AI, and high-performance computing that extends far beyond the classroom. I love tackling complex problems, from building neural networks from scratch in C++ to designing self-learning game agents. I have moved on to working on developing systems using web development frameworks like Node JS and React.
 
 ---
 
